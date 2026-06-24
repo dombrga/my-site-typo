@@ -37,7 +37,7 @@ listDateFormat = '2 Jan 2006'
 [params.breadcrumbs]
 enabled = true
 showCurrentPage = true
-home = "Home"
+home = "~"
 
 # Social icons
 [[params.social]]
