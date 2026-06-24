@@ -1,0 +1,25 @@
+# Hugo build output (compiled static website assets)
+/public/
+/dist/
+
+# Hugo asset generation and asset pipeline cache
+/resources/_gen/
+.hugo_build.lock
+
+# Automatically generated build statistics (if using Hugo's CSS Purge feature)
+hugo_stats.json
+
+# Local development environment or temporary configuration directories
+.sass-cache/
+.tmp/
+
+# Frontend/Node dependencies (if using npm/yarn for extensions or Tailwind)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# OS-specific temporary files
+.DS_Store
+Thumbs.db
